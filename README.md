@@ -56,4 +56,4 @@ I'm still learning while actively growing across all three stacks. Every project
 
 Got a project, question, or just want to talk?
 
-**Discord - @lua.cy**
+**Discord - @coderlucass**
